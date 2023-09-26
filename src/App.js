@@ -57,6 +57,10 @@ const markers = [
     popUp: "Load : 200 kg"
   },
   {
+    geocode: [13.116670, 80.103081],
+    popUp: "Load : 200 kg"
+  },
+  {
     geocode: [13.0689, 80.1968],
     popUp: "Load : 300 kg"
   }
